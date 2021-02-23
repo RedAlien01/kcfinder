@@ -31,5 +31,5 @@ Error 500 = Server not Responding / Connection Error
 
 ### ScreenShot
 ![shot](https://imgur.com/6dqStBX.png)
-![shot](hhttps://imgur.com/UgZ3dLf.png)
+![shot](https://i.imgur.com/UgZ3dLf.png)
 
