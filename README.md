@@ -1,5 +1,6 @@
 # KCFinder Path Finder
 **This script is recode from Meow404 project.**
+**Gunakanlah Sewajarnya.**
 
 Written by: [Meow404-Unknown45](https://github.com/penucuriCode) <br />
 My Partner by: [CyberArmy](https://www.cyberarmy.id/en)
