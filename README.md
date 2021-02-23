@@ -16,7 +16,7 @@ My Partner by: [CyberArmy]
 ## Installation
 ```sh
 $ git clone https://github.com/penucuriCode/kcfinder
-$ cd kc-find
+$ cd kcfinder
 $ pip3 install -r requirements.txt
 $ python exploit.py
 ```
