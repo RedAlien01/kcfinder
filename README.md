@@ -1,8 +1,8 @@
 # KCFinder Path Finder
-**This script is recode from admin-san project.**
+**This script is recode from Meow404 project.**
 
-Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit) [@rabbit_fuzzy] <br />
-Recode by: [Meow404-Unknown45](https://github.com/penucuriCode)
+Written by: [Meow404-Unknown45](https://github.com/penucuriCode) <br />
+My Partner by: [CyberArmy]
 
 ##### PREREQUISITES
 * Python 3.x 
