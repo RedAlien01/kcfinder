@@ -2,7 +2,7 @@
 **This script is recode from Meow404 project.**
 
 Written by: [Meow404-Unknown45](https://github.com/penucuriCode) <br />
-My Partner by: [CyberArmy]
+My Partner by: [CyberArmy](https://www.cyberarmy.id/en)
 
 ##### PREREQUISITES
 * Python 3.x 
