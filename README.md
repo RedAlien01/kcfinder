@@ -30,6 +30,6 @@ Error 403 = Firewall in Website <br />
 Error 500 = Server not Responding / Connection Error
 
 ### ScreenShot
-![shot](https://i.imgur.com/ejsvxcg.png)
-![shot](https://i.imgur.com/IxKpzoD.png)
+![shot](https://imgur.com/6dqStBX)
+![shot](hhttps://imgur.com/UgZ3dLf)
 
